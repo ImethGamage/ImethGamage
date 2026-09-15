@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imeth Gamage</h1>
 
-<h3 align="center">Software Engineer | Java & Backend Development | Full-Stack | Cloud</h3>
+<h3 align="center">Software Engineer | Full-Stack | Cloud</h3>
 
 <p align="center">
 Software Engineering graduate from Sri Lanka with enterprise software engineering experience and a strong interest in building scalable, reliable, and practical software solutions.
@@ -94,13 +94,3 @@ Software Engineering graduate from Sri Lanka with enterprise software engineerin
 `Backend Engineering` • `Java` • `Spring Boot` • `REST APIs` • `Distributed Systems` • `Concurrency` • `Cloud Computing` • `Full-Stack Development` • `Data Science` • `Artificial Intelligence`
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ImethGamage&show_icons=true&locale=en" alt="Imeth Gamage GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImethGamage&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-</p>
